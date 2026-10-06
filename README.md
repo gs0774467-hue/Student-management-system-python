@@ -62,7 +62,7 @@ Make sure Python 3 is installed on your system.
 
 ### 2. Clone the Repository
 
-git clone https://github.com/your-username/student-management-system-python.git
+git clone https://github.com/gs0774467-hue/student-management-system-python.git
 
 ### 3. Open the Project Folder
 
